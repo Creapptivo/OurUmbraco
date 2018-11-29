@@ -1,6 +1,15 @@
 ﻿{
   "blogs": [
     {
+      "id": "278681AC-246B-4074-B1C2-BD8A65F49AB9",
+      "checkTitles": false,
+      "title": "UmbracoMX",
+      "url": "http://umbracomx.com",
+      "rss": "http://umbracomx.com/feed/",
+      "logo": "http://umbracomx.com/media/1101/umbracomxlogo.png",
+      "memberId": 272516
+    },
+    {
       "id": "33D9FA36-7469-46D4-AACD-D1A9BED0A807",
       "checkTitles": false,
       "title": "codeshare.co.uk Blog",
